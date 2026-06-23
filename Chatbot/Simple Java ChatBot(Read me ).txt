@@ -1,0 +1,29 @@
+# Simple Java ChatBot
+
+This is a small Java chatbot project made for practice and learning.
+
+The chatbot can reply to a few basic questions and keeps running until the user types `bye`.
+
+## Features
+
+- Greets the user
+- Answers simple questions like:
+  - hello
+  - how are you
+  - what is your name
+- Exits when the user types `bye`
+- Easy to understand code for beginners
+
+## Technologies Used
+
+- Java
+- Scanner Class (`java.util.Scanner`)
+
+## How to Run
+
+1. Download or clone this project.
+2. Open the file in your Java IDE (VS Code, IntelliJ, Eclipse, etc.).
+3. Compile and run `chatBot.java`.
+4. Start chatting with the bot.
+
+## Example
